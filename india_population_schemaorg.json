@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+
+  "name": "India Population Dataset",
+
+  "description": "Dataset containing India population statistics and demographic information for research and analysis.",
+
+  "creator": {
+    "@type": "Person",
+    "name": "Kandarp Patel"
+  },
+
+  "keywords": [
+    "India",
+    "Population",
+    "Demographics",
+    "Statistics",
+    "Data Management"
+  ],
+
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+
+  "datePublished": "2026-05-06",
+
+  "publisher": {
+    "@type": "Organization",
+    "name": "SRH University Heidelberg"
+  },
+
+  "distribution": {
+    "@type": "DataDownload",
+    "encodingFormat": "CSV",
+    "contentUrl": "https://example.com/india_population.csv"
+  }
+}
