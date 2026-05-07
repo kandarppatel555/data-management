@@ -1,14 +1,8 @@
-# Week 1 - Metadata Assignment
-
-## Dataset
-Indian Census Household and Population Data 2011
-
-## Dataset Source
-https://www.kaggle.com/datasets/shraddha4ever20/indian-census-household-and-population-data-2011
+# Week 2 - Data Profiling
 
 ## Files Included
-- DataCite metadata in XML format
-- schema.org metadata in JSON-LD format
+- Data Profiling
+- Tableau Preb Scripts
 
 ## Student
 Kandarp Patel
