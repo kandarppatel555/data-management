@@ -2,9 +2,9 @@
   "@context": "https://schema.org",
   "@type": "Dataset",
 
-  "name": "India Population Dataset",
+  "name": "Indian Census Household and Population Data 2011",
 
-  "description": "Dataset containing India population statistics and demographic information for research and analysis.",
+  "description": "Dataset containing Indian Census 2011 demographic and household population statistics for districts and states across India.",
 
   "creator": {
     "@type": "Person",
@@ -13,15 +13,16 @@
 
   "keywords": [
     "India",
+    "Census 2011",
     "Population",
     "Demographics",
-    "Statistics",
+    "Household Data",
     "Data Management"
   ],
 
   "license": "https://creativecommons.org/licenses/by/4.0/",
 
-  "datePublished": "2026-05-06",
+  "datePublished": "2026-05-07",
 
   "publisher": {
     "@type": "Organization",
@@ -31,6 +32,6 @@
   "distribution": {
     "@type": "DataDownload",
     "encodingFormat": "CSV",
-    "contentUrl": "https://example.com/india_population.csv"
+    "contentUrl": "https://www.kaggle.com/datasets/shraddha4ever20/indian-census-household-and-population-data-2011"
   }
 }
